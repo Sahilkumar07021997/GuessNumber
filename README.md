@@ -1,0 +1,3 @@
+# GuessNumber
+small game application to guess number between 1-100 and score accordingly using HTML, CSS and JS 
+created---by sahil.....
